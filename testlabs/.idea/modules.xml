@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testSpringWebMVC/testSpringWebMVC.iml" filepath="$PROJECT_DIR$/testSpringWebMVC/testSpringWebMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testWebService/testWebService.iml" filepath="$PROJECT_DIR$/testWebService/testWebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaaraa.iml" filepath="$PROJECT_DIR$/yaaraa.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testWebService/lib/jaxb-xjc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

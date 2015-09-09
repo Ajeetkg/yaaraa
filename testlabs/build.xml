@@ -1,0 +1,17 @@
+<project name="test" default="convert_password">
+    <property name="prop_file" value="build_properties/value.properties"/>
+    <target name="convert_password">
+        <property file="${prop_file}"/>
+        <echo>Current value of my_password is ${my_password}</echo>
+        <java classname="GeneratePassword" outputproperty="new_password">
+            <arg value="${my_password}"/>
+            <classpath>
+                <pathelement path="."/>
+            </classpath>
+        </java>
+        <echo>New password is ${new_password}</echo>
+        <copy file="${prop_file}" tofile="new_${prop_file}"/>
+        <replace file="new_${prop_file}" token="${my_password}" value="${new_password}"/>
+        <echo>The new password is stored in the file called new_${prop_file}</echo>
+    </target>
+</project>
