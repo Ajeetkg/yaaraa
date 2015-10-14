@@ -34,6 +34,7 @@ function setArray() {
 
 }
 
+
 function findDuplicates(arr) {
     var i,
         len=arr.length,
